@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delivator&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Delivator&include_all_commits=true&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Delivator&include_all_commits=true&disable_animations=true&theme=dark_github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delivator&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Delivator&langs_count=4&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Delivator&langs_count=4&disable_animations=true&theme=dark_github)
 
 
 <!--
